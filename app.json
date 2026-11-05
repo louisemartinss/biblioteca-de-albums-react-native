@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Biblioteca de Álbuns",
+    "slug": "biblioteca-de-albums-react-native",
+    "version": "1.0.0",
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "favicon": "./public/icon-192.png"
+    }
+  }
+}
